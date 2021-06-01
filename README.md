@@ -1,4 +1,4 @@
-### Hi, I'm Rupanshi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi, I'm Rupanshi ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rdotjain" alt="shubhank-saxena" /> </p>
 
