@@ -12,7 +12,7 @@
 - 😄 Pronouns: She/Her
 <br>
 
-![Rupanshi's github stats](https://github-readme-stats.vercel.app/api?username=rdotjain&count_private=true&include_all_commits=true&theme=nightowl)
+![Rupanshi's github stats](https://github-readme-stats.vercel.app/api?username=rdotjain&count_private=true&include_all_commits=true&theme=highcontrast)
 
 ## Connect with me :
 <p align="center">
