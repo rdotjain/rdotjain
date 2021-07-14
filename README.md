@@ -5,7 +5,7 @@
 <br>
 
 - 🔭 I’m currently working on - Backend Development
-- 🌱 I’m currently learning - Javascript, Docker
+- 🌱 I’m currently learning - Javascript, DevOps
 - 👯 I’m looking to collaborate on - Django projects
 - 🤔 I’m looking for help with - Data Structures and Algorithms
 - 📫 How to reach me: rupanshijain45678@gmail.com
