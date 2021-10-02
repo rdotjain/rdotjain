@@ -4,7 +4,7 @@
 
 <br>
 
-- 🔭 I’m currently working on - <a href="https://github.com/rdotjain/notefy"><img src="https://servatom.com/assets/notefy/logo.png" height="15px"> Notefy</a> .
+- 🔭 I’m currently working on - <a href="https://github.com/rdotjain/notefy"><img src="https://assets.servatom.com/notefy/logo.png" height="15px"> Notefy</a> .
 - 🌱 I’m currently learning - DSA, DevOps
 - 👯 I’m looking to collaborate on - Django projects
 - 🤔 I’m looking for help with - Data Structures and Algorithms
