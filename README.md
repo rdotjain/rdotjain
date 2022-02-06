@@ -1,6 +1,6 @@
 ## Hi, I'm Rupanshi ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rdotjain" alt="rdotjain" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdotjain" alt="rdotjain" /> </p>
 
 <br>
 
@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with - Data Structures and Algorithms
 - 📫 How to reach me: jainrupanshi@outlook.com
 - 😄 Pronouns: She/Her
-<br>
+<br> -->
 
 ![Rupanshi's github stats](https://github-readme-stats.vercel.app/api?username=rdotjain&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast)
 
